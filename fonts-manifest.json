@@ -708,5 +708,45 @@
       "name": "IPA Font License 1.0",
       "url": "https://moji.or.jp/ipafont/license/"
     }
+  },
+  {
+    "id": "atkinson",
+    "name": "Atkinson Hyperlegible Next",
+    "files": [
+      "atkinson/AtkinsonHyperlegibleNext-ExtraLight.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-Light.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-Regular.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-Medium.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-SemiBold.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-Bold.ttf",
+      "atkinson/AtkinsonHyperlegibleNext-ExtraBold.ttf"
+    ],
+    "desc": "Atkinson Hyperlegible, named after the founder of the Braille Institute, has been developed specifically to increase legibility for readers with low vision, and to improve comprehension.",
+    "official": "https://www.brailleinstitute.org/freefont/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
+    "id": "lexend",
+    "name": "Lexend Deca",
+    "files": [
+      "lexend/LexendDeca-Thin.ttf",
+      "lexend/LexendDeca-ExtraLight.ttf",
+      "lexend/LexendDeca-Light.ttf",
+      "lexend/LexendDeca-Regular.ttf",
+      "lexend/LexendDeca-Medium.ttf",
+      "lexend/LexendDeca-SemiBold.ttf",
+      "lexend/LexendDeca-Bold.ttf",
+      "lexend/LexendDeca-ExtraBold.ttf",
+      "lexend/LexendDeca-Black.ttf"
+    ],
+    "desc": "Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018. Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.",
+    "official": "https://www.lexend.com/",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
   }
 ]
