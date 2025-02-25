@@ -32,12 +32,25 @@
     }
   },
   {
+    "id": "copperzhengkai",
+    "name": "汇迹正楷",
+    "files": [
+      "copperzhengkai/CooperZhengKai.ttf"
+    ],
+    "desc": "Cooper 搭配汇文正楷，更楷体。",
+    "official": "https://www.maoken.com/freefonts/24749.html",
+    "license": {
+      "name": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org/open-font-license-official-text/"
+    }
+  },
+  {
     "id": "fusion-pixel",
     "name": "缝合像素字体",
     "files": [
       "fusion-pixel/fusion-pixel-12px-proportional-zh_hans.ttf"
     ],
-    "desc": "该项目为 「方舟像素字体」 的临时性过渡方案。使用多个像素字体合并而成，因此以「缝合」命名。",
+    "desc": "该项目为「方舟像素字体」的临时性过渡方案。使用多个像素字体合并而成，因此以「缝合」命名。",
     "official": "https://github.com/TakWolf/fusion-pixel-font",
     "license": {
       "name": "SIL OFL 1.1",
